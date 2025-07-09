@@ -29,7 +29,7 @@ The project utilizes Sales-related data obtained from [Kaggle](). The dataset in
    ``` shell
          pip install -r requirements.txt
    ```
-4. Open the Jupyter Notebook file aales_prediction_python.ipynb to view and interact with the code
+4. Open the Jupyter Notebook file sales_prediction_python.ipynb to view and interact with the code
 5. Run the cells in the notebook to execute the code and view the results
 
 
