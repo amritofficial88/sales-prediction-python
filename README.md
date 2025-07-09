@@ -20,13 +20,16 @@ The project utilizes Sales-related data obtained from [Kaggle](). The dataset in
 
 ## How to Download and Use this Project:
 
-1. Clone this repository using git [Clone](https://github.com/amritofficial88/sales-prediction-python.git)
+1. Clone this repository using git.
+   ``` shell
+         git clone https://github.com/amritofficial88/sales-prediction-python.git
+   ```
 2. Install the required libraries using
    
    ``` shell
          pip install -r requirements.txt
    ```
-3. Open the Jupyter Notebook file Sales_prediction_using_python.ipynb to view and interact with the code
-4. Run the cells in the notebook to execute the code and view the results
+4. Open the Jupyter Notebook file aales_prediction_python.ipynb to view and interact with the code
+5. Run the cells in the notebook to execute the code and view the results
 
 
